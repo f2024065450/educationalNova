@@ -1,16 +1,53 @@
-# React + Vite
+📚 EduNova - Free Education Platform
+A modern, free education platform built with React and Firebase
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🌟 Overview
+EduNova is a complete education platform that provides free access to quality learning resources. Students can explore subjects, take quizzes, use flashcards, earn certificates, and connect with expert teachers - all completely free!
 
-Currently, two official plugins are available:
+✨ Features
+🔐 Authentication
+Email/Password registration
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Secure login system
 
-## React Compiler
+Email verification
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Password reset functionality
 
-## Expanding the ESLint configuration
+📚 Learning Tools
+Subject Explorer - Browse through various subjects
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Interactive Quizzes - Test your knowledge with instant feedback
+
+Flashcards - Study effectively with digital flashcards
+
+Certificate Generation - Earn certificates upon quiz completion
+
+👨‍🏫 Teachers
+Browse teacher profiles by department
+
+Filter teachers by subject area
+
+Contact teachers directly via email
+
+Apply to become a teacher
+
+📱 User Experience
+Video Background - Engaging auth page with video
+
+Scroll Animations - Smooth animations as you scroll
+
+Responsive Design - Works on mobile, tablet, and desktop
+
+Glassmorphism UI - Modern glass effect design
+
+Notification System - Real-time user feedback
+
+📄 Pages
+Home - Hero section, statistics, features, reviews
+
+Subjects - All available subjects with quiz/flashcard access
+
+Teachers - Teacher directory with department filtering
+
+About - Mission, vision, team, and statistics
